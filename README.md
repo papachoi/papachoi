@@ -21,3 +21,7 @@ I’m refreshing fundamentals and shipping tiny projects daily.
 
 ### 🤝 Connect
 Open to beginner collabs in AI/DeFi/tech. PRs & issues welcome!
+
+### Currently Exploring
+- 🤖 AI bots → [lighter-playground](https://github.com/papachoi/lighter-playground), [hyperliquid-playground](https://github.com/papachoi/hyperliquid-playground)
+- 🧮 Confidential smart contracts with [Zama FHEVM](https://github.com/zama-ai/fhevm)
