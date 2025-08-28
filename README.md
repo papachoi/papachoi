@@ -28,3 +28,6 @@ Open to beginner collabs in AI/DeFi/tech. PRs & issues welcome!
 
 ### Day 5 Highlight
 - 🔒 Zama [FHEVM](https://github.com/zama-ai/fhevm): built and ran the React template locally, first hands-on with confidential Solidity contracts.
+
+### Day 6 Highlight
+- 🗳️ Built a **ConfidentialVoting** demo in `fhevm-playground` using FHE-style `select` branching (stubbed).
