@@ -34,7 +34,10 @@ PRs & issues welcome!
 
 ---
 
-### 📝 Highlights
-- **Day 5:** 🔒 Ran Zama’s FHEVM React template locally — first hands-on with confidential Solidity contracts.  
-- **Day 6:** 🗳️ Built a **ConfidentialVoting** demo in `fhevm-playground` using FHE.select-style branching.  
-- **Day 6:** 🛒 Built a **SealedBidAuction** demo in `fhevm-playground` using FHE-style `gt` + `select` (stubbed).
+## 📝 Highlights
+- **Day 5:** 🔒 Ran Zama’s FHEVM React template locally — first hands-on with confidential Solidity contracts.
+- **Day 6:** 🗳️ Built **ConfidentialVoting** + **SealedBidAuction** demos (stubbed FHE lib).
+- **Day 7:** 🔄 Switched to Zama’s real `TFHE.sol` library (`add`, `mul`, `select`, `gt`).
+- **Day 9–10:** ➗ Built arithmetic pipelines + `EncryptedMax` demo with encrypted branching.
+- **Day 11:** ✅ Compiling fully with real TFHE; parked unwrap-based demos.
+- **Day 12:** 📦 Added `ConfidentialVotingTFHE.sol` and `SealedBidAuctionTFHE.sol` using only encrypted branching (`TFHE.select`).
